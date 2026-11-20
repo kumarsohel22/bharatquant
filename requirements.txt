@@ -1,0 +1,7 @@
+ipykernel
+yfinance
+datasets
+pandas
+pyarrow
+huggingface_hub
+python-dotenv
